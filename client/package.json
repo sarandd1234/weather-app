@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "build": "react-scripts build"
+  },
+  "name": "client",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}

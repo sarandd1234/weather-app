@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2rem;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.weather-card {
+  margin-top: 2rem;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  display: inline-block;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  width: 250px;
+}

@@ -1,0 +1,11 @@
+runtime: nodejs20
+instance_class: F1
+env_variables:
+  NODE_ENV: production
+
+handlers:
+  - url: /static
+    static_dir: client/build/static
+
+  - url: /.*
+    script: auto
